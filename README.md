@@ -12,6 +12,7 @@ Before you proceed, make sure you have the following prerequisites installed on 
 4. numpy
 5. pyttsx3
 You can install these dependencies using pip:
+
 ![image](https://github.com/kJahnavi24/Voice-_Activated_Face_recognition/assets/85448520/1f4227da-1706-4d99-b9f8-458474904653)
 
 ###### How It Works
