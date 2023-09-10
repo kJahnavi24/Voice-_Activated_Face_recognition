@@ -1,4 +1,4 @@
-####### Building a Voice-Activated Attendance System using Python
+###### Building a Voice-Activated Attendance System using Python
 In this GitHub article, we will discuss how to create a Voice-Activated Attendance System using Python. This system uses face recognition technology to recognize individuals and record their attendance in a CSV file. Additionally, it utilizes the pyttsx3 library to provide voice feedback upon successful recognition.
 ##### Introduction
 Attendance tracking is crucial in various organizations and educational institutions. Traditional methods of taking attendance can be time-consuming and prone to errors. To address these issues, we have created a Voice-Activated Attendance System that automates the attendance tracking process.
